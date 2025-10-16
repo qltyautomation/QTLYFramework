@@ -1,0 +1,18 @@
+# Pycharm
+.idea/*
+__pycache__/*
+qlty/__pycache__/*
+qlty/classes/__pycache__/*
+qlty/utilities/__pycache__/
+QLTYFramework.egg-info/*
+build/*
+dist/*
+qlty/classes/integrations/__pycache__/
+qlty/classes/selenium/__pycache__/
+qlty/classes/core/__pycache__/
+tests/__pycache__/
+*.pyc
+*.pyo
+*.egg-info
+.DS_Store
+test_results/*
